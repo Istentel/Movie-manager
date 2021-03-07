@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<movies>
+                                                                                                
+    
+    
+    
+    
+            
+    
+    
+        
+
+    
+    
+    
+        
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                                            
+    
+    
+    
+    
+    
+    
+    
+                            
+    
+    
+    
+    
+    
+    
+                        
+    
+    
+    
+    
+    
+    
+    
+                                
+    
+    
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+                            
+
+
+    
+    
+    
+    
+    
+    
+                        
+    
+    
+    
+    
+    
+    
+                            
+    
+    
+    
+    
+    
+    
+    
+                                
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                                    
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    <movieNode>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <name>Lord of the Ring</name>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <category>Action</category>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <releaseDate>15.07.2000</releaseDate>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <rating>10</rating>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <imdb>8.9</imdb>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    </movieNode>
+                                
+
+
+
+
+
+    
+    
+    <movieNode>
+                        
+        
+        <name>test2</name>
+                        
+        
+        <category>Comedy</category>
+                        
+        
+        <releaseDate>34</releaseDate>
+                        
+        
+        <rating>10</rating>
+                        
+        
+        <imdb>34</imdb>
+                    
+    
+    </movieNode>
+            
+    
+    <movieNode>
+                        
+        
+        <name>fda</name>
+                        
+        
+        <category>Action</category>
+                        
+        
+        <releaseDate>23</releaseDate>
+                        
+        
+        <rating>10</rating>
+                        
+        
+        <imdb>2</imdb>
+                    
+    
+    </movieNode>
+            
+    
+    <movieNode>
+                        
+        
+        <name>df</name>
+                        
+        
+        <category>Action</category>
+                        
+        
+        <releaseDate>sdf</releaseDate>
+                        
+        
+        <rating>10</rating>
+                        
+        
+        <imdb>23</imdb>
+                    
+    
+    </movieNode>
+            
+    
+    <movieNode>
+                        
+        
+        <name>com</name>
+                        
+        
+        <category>Comedy</category>
+                        
+        
+        <releaseDate>34</releaseDate>
+                        
+        
+        <rating>10</rating>
+                        
+        
+        <imdb>sdf</imdb>
+                    
+    
+    </movieNode>
+        
+
+    <movieNode>
+        <name>abc</name>
+        <category>Action</category>
+        <releaseDate>34</releaseDate>
+        <rating>10</rating>
+        <imdb>4</imdb>
+    </movieNode>
+    <movieNode>
+        <name>gf</name>
+        <category>Drama</category>
+        <releaseDate>df</releaseDate>
+        <rating>10</rating>
+        <imdb>ds</imdb>
+    </movieNode>
+</movies>
