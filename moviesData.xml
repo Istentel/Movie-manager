@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<movies>
+                                                                                                                                                                
+    
+    
+        
+    
+    
+        
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+                            
+
+
+
+    
+    
+    
+    
+    
+    
+    
+                        
+    
+    
+
+    
+    
+    
+            
+    
+    
+    
+    
+    
+                
+
+
+
+    
+    
+        
+    
+    
+            
+    
+    
+    
+    
+    
+    
+    
+                            
+
+
+    
+    
+    
+    
+    
+    
+                        
+    
+    
+        
+    
+
+    
+    
+    
+    
+    
+    
+                    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                                    
+
+
+    
+    
+    
+        
+
+    
+    
+    
+        
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                                    
+    
+    
+    
+    
+                    
+    
+    
+    
+            
+    
+    
+    
+    
+    
+                    
+    
+    
+    
+    
+    
+                    
+    
+    
+    
+    
+    
+    
+    
+    
+                            
+    
+    
+    
+    
+    
+                    
+    
+    
+    
+    
+    
+    
+    
+                            
+
+
+
+
+
+
+
+    <movieNode>
+        <name>Tenet</name>
+        <category>Action</category>
+        <releaseDate>12/8/2020</releaseDate>
+        <rating>7</rating>
+        <imdb>7.5</imdb>
+    </movieNode>
+    <movieNode>
+        <name>The Avengers</name>
+        <category>Action</category>
+        <releaseDate>4/5/2012</releaseDate>
+        <rating>9</rating>
+        <imdb>8.0</imdb>
+    </movieNode>
+    <movieNode>
+        <name>A Quiet Place II</name>
+        <category>Horror</category>
+        <releaseDate>8/3/2020</releaseDate>
+        <rating>9</rating>
+        <imdb>8.6</imdb>
+    </movieNode>
+    <movieNode>
+        <name>Parasite</name>
+        <category>Thriller</category>
+        <releaseDate>30/5/2019</releaseDate>
+        <rating>9</rating>
+        <imdb>8.6</imdb>
+    </movieNode>
+</movies>
